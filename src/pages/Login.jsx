@@ -69,7 +69,7 @@ export default function Login() {
             </h1>
 
             {/* Card */}
-            <div className="w-[402px] h-[378px] backdrop-blur-md bg-white/10 border border-white/20 rounded-[5px] p-5 space-y-6">
+            <div className="w-[402px] h-[398px] backdrop-blur-md bg-white/10 border border-white/20 rounded-[5px] p-6 space-y-5">
 
                 {/* Heading */}
                 <h2 className="text-white text-[24px] font-medium">
